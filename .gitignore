@@ -1,0 +1,27 @@
+Backend/__pycache__
+Backend/.venv/
+Backend/myenv/
+Backend/vertex-ai-user-service-account.json
+Backend/model/transfer_model.ckpt
+
+# dependencies
+Frontend/node_modules
+Frontend/.pnp
+Frontend/.pnp.js
+
+# testing
+Frontend/coverage
+
+# production
+Frontend/build
+
+# misc
+Frontend/.DS_Store
+Frontend/.env.local
+Frontend/.env.development.local
+Frontend/.env.test.local
+Frontend/.env.production.local
+
+Frontend/npm-debug.log*
+Frontend/yarn-debug.log*
+Frontend/yarn-error.log*

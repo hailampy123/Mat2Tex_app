@@ -1,0 +1,23 @@
+.logo {
+    float: left;
+    display: block;
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+}
+
+.ant-row-rtl .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+}
+
+.site-layout-background {
+    background: #fff;
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+}
+

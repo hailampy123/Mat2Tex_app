@@ -1,0 +1,25 @@
+{
+    "results": [
+        {
+            "img_name": "im_2.jpg",
+            "coordinates": (581,1228,865,1347),
+            "class": "isolated",
+            "isolated": "multi-line",
+            "latex": "\\begin{aligned} \\left . \\left | \\begin { a r r a y } { c c l } { | } & { } & { } & { } & { } & { } & { } & { } \\ \\ \\end { a r r a y } \\right . \\end{aligned}"
+        },
+        {
+            "img_name": "im_4.jpg",
+            "coordinates": (581,1459,867,1582),
+            "class": "isolated",
+            "isolated": "multi-line",
+            "latex": "\\begin{aligned} \\left | \\begin { a r r a y } { c c l } { | } & { } & { } & { } & { } & { L ^ { 0 } } & { L ^ { 0 } } \\ \\ \\end { a r r a y } \\right . , \\end{aligned}"
+        },
+        {
+            "img_name": "im_12.jpg",
+            "coordinates": (389,324,474,345),
+            "class": "embedded",
+            "isolated": None,
+            "latex": "\\begin { a r r a y } { c c c } { | } & { \\mathrm { A } } & { 1 } & { { \\bf 1 } } & { { \\bf 1 } } & { { \\frac { 1 } { 0 } } { \\frac { 1 } { \\longrightarrow } } { \\frac { 1 } { \\partial } } { \\frac { 1 } { 2 } } { } ^ { { \\mathbf { 1 } } } { } ^ { \\mathrm { L } } \\, { } ^ { \\mathrm { L } } \\, \\, \\, \\, { \\, } \\, \\, \\, \\, \\left ( { \\bf l } \\left ( { \\bf l } \\left ( { \\bf l } \\left ( { \\bf l } \\left ( { \\bf l }"
+        }
+    ]
+}

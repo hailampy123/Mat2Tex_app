@@ -1,0 +1,268 @@
+{
+    "predictions": [
+        {
+            "class": "embedded",
+            "coordinates": [
+                404,
+                1346,
+                601,
+                1375
+            ],
+            "img_name": "im_1.jpg",
+            "isolated": null,
+            "latex": "\\begin { a r r a y } { c c c } { \\alpha _ { } } & { \\mathrm { \\mathrm { ~ \\cal ~ \\Delta ~ } } } \\ \\ \\end { a r r a y }"
+        },
+        {
+            "class": "isolated",
+            "coordinates": [
+                636,
+                1618,
+                853,
+                1654
+            ],
+            "img_name": "im_2.jpg",
+            "isolated": "single-line",
+            "latex": "\\left \\{ \\begin { a r r a r a y } { l l l } { 1 } \\ \\ { 1 } \\ \\ \\end { a r r a r a y } { l l l } { I } \\ \\ { 1 } \\ \\ \\end { a r r a r a y } { l l l } { I } & { } & { } & { } & { } & { } & { d } & { T ^ { \\prime } } \\ \\ { l } & { l } \\ \\ \\end { a r r a y } \\right \\} \\; \\; 0 \\; T \\! \\! \\int _ { P _ { \\cal U } } { \\cal T } _ { \\cal U } ^ { ^ { 1 }"
+        },
+        {
+            "class": "isolated",
+            "coordinates": [
+                613,
+                937,
+                879,
+                971
+            ],
+            "img_name": "im_3.jpg",
+            "isolated": "single-line",
+            "latex": "\\begin { a r r a y } { l l l } { { \\bf t } _ { \\Gamma } } & { = } & { 0 } & { = } & { { \\cal 0 } } \\ \\ { { \\overline { { U } } } } & { = } & { 0 } \\ \\ \\end { a r r a y }"
+        },
+        {
+            "class": "isolated",
+            "coordinates": [
+                554,
+                542,
+                933,
+                572
+            ],
+            "img_name": "im_4.jpg",
+            "isolated": "single-line",
+            "latex": "{ \\cal { G } } _ { \\Theta } \\frac { | } { c } _ { \\underline { { \\lambda } } } \\left ( \\begin { a r r a y } { c c c } { { } ^ { \\prime } } & { } & { } & { } & { } \\ \\ \\end { a r r a y } \\right ) \\, \\, \\, { \\cal C } \\, \\, = \\, { \\frac { 1 } { T } } _ { { } } ^ { \\prime } \\, , \\, \\, \\, \\, \\right ) \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\, \\,"
+        },
+        {
+            "class": "embedded",
+            "coordinates": [
+                258,
+                1547,
+                325,
+                1575
+            ],
+            "img_name": "im_5.jpg",
+            "isolated": null,
+            "latex": "{ \\bf c } _ { \\Delta } { \\frac { o _ { 2 } } { { \\cal C } } } \\left ( { \\bf { \\frac { 1 } { 2 } } } \\left ( \\begin { a r r r a y } { c } { U _ { 1 } } \\ \\ { { \\cal D } } \\ \\ \\end { a r r a y } \\right ) \\left ( \\begin { a r r a y } { c } { ( J _ { 1 } } \\ \\ { { L } } \\ \\ \\end { a r r a y } \\right ) \\left ( \\begin { a r r r a y } { c } { ( J _ { 1 } } \\ \\ { { L } } \\ \\"
+        },
+        {
+            "class": "isolated",
+            "coordinates": [
+                606,
+                1742,
+                886,
+                1777
+            ],
+            "img_name": "im_6.jpg",
+            "isolated": "single-line",
+            "latex": "\\left \\{ \\begin { a r r a y } { l l l } { \\left . \\hat { T } _ { } } & { } & { } & { } & { } & { } \\ \\ \\end { a r r a y } \\right ) \\; \\; T \\right ) \\; T \\right \\} \\; 0 \\; T \\left ( \\begin { a r r a y } { l l } { - 1 } & { } & { } \\ \\ \\end { a r r a y } { l } { l } & { - } \\ \\ \\end { a r r a y } { c } { - 1 } \\ \\ \\end { a r r a y } { l } { l } & { I } \\ \\ {"
+        },
+        {
+            "class": "embedded",
+            "coordinates": [
+                503,
+                851,
+                535,
+                875
+            ],
+            "img_name": "im_7.jpg",
+            "isolated": null,
+            "latex": "\\left . \\left . \\begin { a r r a y } { l l } { I _ { 1 } ^ { \\, L } ^ { \\, L _ { 1 } ^ { 1 } } \\right ] _ { \\mathrm { L } } ^ { \\, } { } ^ { } { } _ { \\pm } \\Delta ^ { _ { 1 } } ^ { { \\mu } _ { 1 } } ^ { { \\mathbf { L } } _ { 1 } } ^ { { \\mathbf { L } } _ { 1 } { } ^ { { \\mathbf { L } } _ { \\perp } { } ^ { { \\mathbf { L } } _ { 1 } } ^ { { } } _ { \\mathrm { L ^ { L }"
+        },
+        {
+            "class": "isolated",
+            "coordinates": [
+                464,
+                1461,
+                1027,
+                1499
+            ],
+            "img_name": "im_8.jpg",
+            "isolated": "single-line",
+            "latex": "\\left . \\left . \\begin { a r r a y } { l l l } { | } & { } & { } & { } & { \\mathrm { L } \\left ( \\begin { a r r a y } { c c } { I } & { 1 } & { 1 } \\ \\ { T } & { \\ddots } & { } & { } \\ \\ \\end { a r r a y } \\right ) \\; \\; l \\; \\; ."
+        },
+        {
+            "class": "embedded",
+            "coordinates": [
+                1078,
+                668,
+                1101,
+                689
+            ],
+            "img_name": "im_9.jpg",
+            "isolated": null,
+            "latex": "{ \\bf \\sum _ { \\bf O } } _ { { \\bf O } } _ { \\bf O } { \\bf \\sum } _ { \\cal { O } } _ { \\mathbf { P } } = { \\bf { O } } _ { \\mathrm { P } } \\, _ { { } } = { \\bf { \\sum } } _ { \\mathrm { P } } \\, { } _ { { } } _ { { } ^ { C } } _ { { } ^ { \\prime } } { } ^ { \\mathrm { { { J } } } { } _ { \\Sigma } { } ^ { { } } { \\bf J } _ { \\mathbf { P } } - { \\bf { \\sum } } _ { \\mathrm { P } } \\,"
+        },
+        {
+            "class": "isolated",
+            "coordinates": [
+                481,
+                1183,
+                1007,
+                1220
+            ],
+            "img_name": "im_10.jpg",
+            "isolated": "single-line",
+            "latex": "~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ \\mathrm { ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ \\end { a r r a y } { l l l } { | } & { } & { \\mathrm { I u l ~ } } \\ \\ \\end { a r r"
+        },
+        {
+            "class": "embedded",
+            "coordinates": [
+                386,
+                669,
+                434,
+                688
+            ],
+            "img_name": "im_11.jpg",
+            "isolated": null,
+            "latex": "\\stackrel { } { \\mid } \\stackrel { } { ^ { \\prime } } \\ \\stackrel { \\ { } } \\ \\stackrel { } { } \\ \\stackrel { \\ \\ \\ \\ \\ \\ \\ \\Gamma } & { \\Upsilon _ { \\bf l } } \\ \\ \\end { a r r a y } { c c c c } { T } \\ \\ { I } & { { \\bf O } _ { 0 } } & { { \\cal Q } _ { } } \\ \\ \\end { a r r a y } { c c c c c c c c c c c c c c c c t } { \\scriptsize { \\bf ~ J } ~ } ( { \\bf { x } } \\, , \\, \\, \\, \\, \\, \\, \\, \\, \\,"
+        },
+        {
+            "class": "embedded",
+            "coordinates": [
+                1206,
+                1257,
+                1228,
+                1278
+            ],
+            "img_name": "im_12.jpg",
+            "isolated": null,
+            "latex": "\\mid \\delta \\mid { \\overline { l } } ^ { \\int } \\prod _ { 0 } { ^ { \\prime } } { \\theta } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime } { } ^ { \\prime"
+        },
+        {
+            "class": "embedded",
+            "coordinates": [
+                671,
+                714,
+                695,
+                734
+            ],
+            "img_name": "im_13.jpg",
+            "isolated": null,
+            "latex": "{ \\bf O } _ { \\bf { D } } _ { - } ^ { \\, \\sim } { \\widehat Q } _ { - } ^ { - } { \\overline { { Q } } } _ { - } ^ { - } \\overline { { { \\mathrm { Y } } } } _ { - } ^ { - } { \\overline { { Y } } } _ { - } ^ { - } { \\bf { Y } } _ { - } ^ { - } { \\bf { Y } } _ { - } ^ { - } { \\bf { C } } _ { - } ^ { - } { \\bf { C } } _ { - } ^ { - } { \\bf { Y } } _ { - } ^"
+        },
+        {
+            "class": "embedded",
+            "coordinates": [
+                736,
+                1054,
+                766,
+                1073
+            ],
+            "img_name": "im_14.jpg",
+            "isolated": null,
+            "latex": "\\left \\{ \\begin { a r r a y } { l l } { l \\prod _ { \\Gamma } } & { l } \\ \\ \\end { a r r a y } \\right . ^ { \\prime } \\prod _ { \\Gamma } { } ^ { \\Gamma } \\ { } _ { \\Gamma } { } ^ { T } \\ { } ^ { T } \\ { } ^ { T } \\ { } ^ { T } \\ { } ^ { T } \\ { } ^ { T } \\ { } ^ { T } \\ { } ^ { T } \\ { } ^ { T } \\ { } ^ { T } \\ { } ^ { T } \\ { } ^ { T } \\ { } ^ { T }"
+        },
+        {
+            "class": "embedded",
+            "coordinates": [
+                996,
+                1302,
+                1024,
+                1322
+            ],
+            "img_name": "im_15.jpg",
+            "isolated": null,
+            "latex": "\\prod \\left [ \\begin { a r r a y } { l l } { \\prod } & { } \\ \\ \\end { a r r a y } \\right ] { \\overline { J } } ^ { \\prime } { } ^ { \\prime } { } ^ { { \\cal D } } { } ^ { { \\cal D } } { } ^ { { \\cal D } } { } ^ { \\prime } { } ^ { { \\cal D } } { } ^ { \\prime } { } ^ { { \\cal D } } { } ^ { \\prime } { } ^ { { \\cal D } } { } ^ { \\prime } { } ^ { { \\cal D } } { } ^ { { \\cal { D } } } { } ^"
+        },
+        {
+            "class": "embedded",
+            "coordinates": [
+                261,
+                622,
+                289,
+                647
+            ],
+            "img_name": "im_16.jpg",
+            "isolated": null,
+            "latex": "\\begin { a r r a y } { l } { \\Gamma } & { \\displaystyle \\prod _ { 1 } \\prod _ { 1 } \\prod _ { 1 } \\prod _ { 1 } \\prod _ { 1 } \\prod _ { 1 } \\prod _ { 1 } \\prod _ { 1 } \\prod _ { 1 } { \\frac { \\Gamma } { { \\bf J } } _ { 1 } { \\frac { r } { { \\bf J } } _ { 1 } { \\frac { r } { { \\bf J } } _ { 1 } { \\frac { { \\bf J } } { { \\bf J } } _ { 1 } } { \\frac { \\Gamma } { { \\bf J } } _ { 1 } { \\frac { { \\bf J } } {"
+        },
+        {
+            "class": "embedded",
+            "coordinates": [
+                448,
+                1009,
+                474,
+                1033
+            ],
+            "img_name": "im_17.jpg",
+            "isolated": null,
+            "latex": "1 \\mid { \\bf \\int \\prod _ { 1 ~ \\prod _ { 1 } } \\; { \\frac { 1 } { 1 } } } \\; { \\frac { 1 } { 1 } } \\, { \\frac { 1 } { 1 } } \\, { \\frac { 1 } { 1 } } \\, { \\frac { 1 } { 1 } } \\, { \\frac { 1 } { 1 } } \\, { \\frac { 1 } { 1 } } \\, { \\frac { 1 } { 1 } } \\, { \\frac { 1 } { 1 } } \\, { \\frac { 1 } { 1 } } \\, { \\frac { 1 } { 1 } } \\, { \\frac { 1 } { 1 } } \\, { \\frac { 1 } { 1 } } \\, { \\frac"
+        },
+        {
+            "class": "embedded",
+            "coordinates": [
+                362,
+                622,
+                386,
+                647
+            ],
+            "img_name": "im_18.jpg",
+            "isolated": null,
+            "latex": "\\left \\{ \\begin { a r r a y } { c } { l } & { \\displaystyle \\sqrt { r } _ { - } \\frac { r } { 4 } \\frac { r } { 4 } \\frac { r } { 4 } ^ { r } { } _ { \\frac { 1 } { 4 } } - r _ { - } ^ { r } { } _ { \\frac { 1 } { 4 } } - \\frac { r } { 4 } - r ^ { r } { } _ { \\frac { 1 } { 4 } } - \\frac { r } { 4 } - \\tau ^ { r } { } _ { \\textstyle { \\frac { 1 } { 4 } } - { \\frac { r } { 4 } }"
+        },
+        {
+            "class": "embedded",
+            "coordinates": [
+                522,
+                1009,
+                545,
+                1029
+            ],
+            "img_name": "im_19.jpg",
+            "isolated": null,
+            "latex": "\\begin { a r r a y } { l } { 1 } & { { \\sf 0 } ^ { \\prime } } \\ \\ \\end { a r r a y } { l ^ { \\prime } } \\ \\ { V ^ { \\prime } } \\ \\ \\end { a r r a y } { l } { l ^ { \\prime } } \\ \\ { V ^ { \\prime } } \\ \\ \\end { a r r a y } { l ^ { \\prime } } \\ \\ \\end { a r r a y } { l } { l ^ { \\prime } } \\ \\ \\end { a r r a y } { l } { l ^ { \\prime } } \\ \\ \\end { a r r a y } { l }"
+        },
+        {
+            "class": "embedded",
+            "coordinates": [
+                1089,
+                1010,
+                1133,
+                1030
+            ],
+            "img_name": "im_20.jpg",
+            "isolated": null,
+            "latex": "{ } ~ { } ~ ~ ~ ~ ~ ~ ~ ~ \\int d ~ - ~ { \\bf Q } _ { \\bf { \\bf 1 } } { \\bf Q } _ { \\bf { \\bf 1 } } { \\bf Q } _ { \\bf { \\bf u } } { \\bf Q } _ { \\bf { \\bf 1 } } { \\bf Q } _ { \\bf { \\bf 1 } } { \\bf Q } _ { \\bf { \\bf 1 } } { \\bf Q } _ { \\bf { \\bf 1 } } { \\bf Q } _ { \\bf { \\bf 1 } } { \\bf Q } _ { \\bf { \\bf 1 } } { \\bf Q } _ { \\bf { \\bf 1 } } { \\bf Q } _ { \\bf { \\bf 1 } }"
+        },
+        {
+            "class": "embedded",
+            "coordinates": [
+                210,
+                1147,
+                234,
+                1167
+            ],
+            "img_name": "im_21.jpg",
+            "isolated": null,
+            "latex": "{ { S } } { \\frac { \\mathrm { D } } _ { \\mathcal { O } } } { \\cal { N } } _ { \\mathrm { O } } { \\hat { \\Delta } } _ { { \\bf O } } { \\hat { \\bf O } } _ { \\mathrm { O } } { \\hat { \\Delta } } _ { { \\hat { O } } } { \\hat { \\Delta } } _ { { \\hat { O } } } { \\hat { \\bf O } } _ { { \\hat { O } } } { \\hat { \\bf O } } _ { \\hat { O } } { \\hat { \\bf O } } _ { } { \\bf O } _ { { \\cal { D } } } { \\bf O } _ {"
+        },
+        {
+            "class": "embedded",
+            "coordinates": [
+                1002,
+                1010,
+                1023,
+                1029
+            ],
+            "img_name": "im_22.jpg",
+            "isolated": null,
+            "latex": "\\mid \\stackrel { \\mid \\; \\; \\; \\; \\mathrm { V } ^ { U } \\rangle ^ { U } \\; \\mathrm { V } ^ { [ \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\; \\;"
+        }
+    ]
+}

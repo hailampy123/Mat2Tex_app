@@ -1,0 +1,7 @@
+.image-preview #im1 {
+    display: inline-block;
+    position: relative;
+    padding: 0 24 0 24;
+    width: auto;
+}
+
